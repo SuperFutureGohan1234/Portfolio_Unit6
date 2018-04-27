@@ -39,6 +39,7 @@
       }
     }
     
-    #stealth {
-     display: inline-block;
-      }
+   #stealth {
+     max-height: 100px;
+     max-height: 200px;
+   }
